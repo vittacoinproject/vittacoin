@@ -1,2 +1,2 @@
-// No build information available
-#define BUILD_DATE "2015-01-12 16:55:18 -1000"
+#define BUILD_DESC "1.0.0-5-g6066f44-dirty"
+#define BUILD_DATE "2018-11-23 21:36:41 +1100"
